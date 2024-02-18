@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+table,th,td
+{
+	border: solid 2px greenyellow;
+	text-align:center;
+
+}
+
+th,td
+{
+	padding: 5px
+}
